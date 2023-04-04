@@ -3,14 +3,9 @@
   justify-content: flex-end
 }
 
-.botao-excluir {
-  border: none;
-  cursor: pointer;
-  margin-left: 5px;
-  margin-top: 10px;
-}
-
-.botao-editar {
+.botao-editar,
+.botao-excluir,
+.botao-favorito {
   border: none;
   cursor: pointer;
   margin-right: 10px;
